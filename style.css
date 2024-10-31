@@ -1,0 +1,41 @@
+/* Custom CSS for Ngcareers Plugin*/
+
+article {padding:10px 15px; border-bottom: dotted #eee 1px;}
+.brand {
+	width: 100%;
+	max-width:900px;
+	min-width:200px;
+	margin: 10px auto;
+	padding:10px;
+}
+
+.brand a {
+	text-decoration: none;
+	border: none;
+}
+.entry-footer {font-size:12px}
+.apply a {
+	width: 150px;
+	text-align: center;
+	border-radius: 5px;
+	border: 1px #EEE solid;
+	background:#F93;
+	font-family: 'Open Sans', arial !important;
+	background: linear-gradient(#F90 10%, #F93 100%);
+	color:#fff;
+	padding:10px;
+	display:block;
+	margin:10px;
+	
+}
+.apply a:hover{
+	background:#06C;
+	background: linear-gradient(#06F 10%, #06C 100%);
+	color:#fff;
+}
+.powered, .powered a {
+	font-size:11px;
+	font-family: arial;
+	color: #555;
+	text-decoration: italics;
+}
